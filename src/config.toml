@@ -23,12 +23,12 @@ pygmentsStyle = "perldoc"
 # If you do not want a social icon, just comment it out
 # Please update the example values!
 [social]
-    email = "mailto:example@example.com"
-    facebook = "https://www.facebook.com/example"
-    twitter = "http://twitter.com/example"
-    medium = "https://www.medium.com/@example"
-    github = "https://github.com/example"
-    linkedin = "http://uk.linkedin.com/in/example"
+    #email = "mailto:example@example.com"
+    #facebook = "https://www.facebook.com/example"
+    #twitter = "http://twitter.com/example"
+    #medium = "https://www.medium.com/@example"
+    github = "https://github.com/seungyongshim"
+    linkedin = "http://linkedin.com/in/seungyongshim"
 
 
 # Set unsafe mode to allow markdownify to work with goldmark
