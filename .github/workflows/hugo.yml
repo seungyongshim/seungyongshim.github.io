@@ -9,11 +9,14 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: hugo
-      uses: klakegg/actions-hugo@1.0.0
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        source: ./src
-        target : ./public 
+        hugo-version: '0.75.1'
+        # extended: true
+
+    - name: Build
+      run: hugo --minify
     
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
