@@ -13,6 +13,7 @@ jobs:
       uses: klakegg/actions-hugo@1.0.0
       with:
         source: ./src
+        target : ./public 
     
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
