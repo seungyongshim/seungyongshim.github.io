@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%EC%8B%9C%EC%9E%91/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/%EC%8B%9C%EC%9E%91/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/about/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/prav/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +64,6 @@
   
   <url>
     <loc>https://example.com/posts/markdown-syntax/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
