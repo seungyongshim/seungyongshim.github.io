@@ -11,6 +11,8 @@ jobs:
 
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
+      with:
+        source: ./src
     
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
