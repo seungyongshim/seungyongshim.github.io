@@ -1,0 +1,4 @@
+build:
+  image: klakegg/hugo:0.76.5
+  volumes:
+    - ".:/src"
