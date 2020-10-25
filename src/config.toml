@@ -1,5 +1,6 @@
 baseURL = "https://seungyongshim.github.io"
 defaultContentLanguage = "en"
+IsMultiLingual = false
 theme = "LoveIt"
 title = "SeungYongShim"
 enableRobotsTXT = true
