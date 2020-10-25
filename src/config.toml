@@ -1,39 +1,15 @@
-baseURL = "https://seungyongshim.github.io/"
-languageCode = "en-gb"
-title = "Hugo Theme - Prav"
-theme = "hugo-theme-prav"
+baseurl = "your-site-address"
+title = "your-site-name"
+languageCode = "ko-KR"
 
-pygmentsCodeFences = "true"
-pygmentsStyle = "perldoc"
+theme = "hugo-hello-programmer-theme"
+themesdir = "../.."
 
-# If you want to track using GA or use disqus for comments, uncomment the 
-# following and add the correct values
-#googleanalytics = ""
-#disqusShortname = ""
+paginate = 2
 
-# The settings below are used throughout the theme.
-# Please update!
-[params]
-    title = "Hugo Theme - Prav"
-    tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    author = "Pravin Paratey"
-    authorImgPath = "/img/author.png"
-    authorBlurb = "Something about me"
+disqusShortname = "XXXX"
+googleAnalytics = "UA-XXXXXXXX-X"
 
-# If you do not want a social icon, just comment it out
-# Please update the example values!
-[social]
-    #email = "mailto:example@example.com"
-    #facebook = "https://www.facebook.com/example"
-    #twitter = "http://twitter.com/example"
-    #medium = "https://www.medium.com/@example"
-    github = "https://github.com/seungyongshim"
-    linkedin = "http://linkedin.com/in/seungyongshim"
-
-
-# Set unsafe mode to allow markdownify to work with goldmark
-# This is important. Please do not delete. It is used to re-render markdown
-[markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
+[author]
+    name = "your-name"
+    email = "your-email"
