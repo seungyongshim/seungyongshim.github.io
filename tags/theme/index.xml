@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theme on Hugo Theme - Prav</title>
-    <link>https://seungyongshim.github.io/tags/theme/</link>
-    <description>Recent content in theme on Hugo Theme - Prav</description>
+    <title>theme on your-site-name</title>
+    <link>your-site-address/tags/theme/</link>
+    <description>Recent content in theme on your-site-name</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://seungyongshim.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language>
+    <managingEditor>your-email (your-name)</managingEditor>
+    <webMaster>your-email (your-name)</webMaster>
+    <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate><atom:link href="your-site-address/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Theme Prav</title>
-      <link>https://seungyongshim.github.io/about/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/about/</guid>
-      <description>History This theme began it&amp;rsquo;s life in early 2013, as the theme for my blog &amp;ldquo;Thoughts on Engineering and Management&amp;rdquo;. Back then it was generated using nanoc. In 2018, I moved to hugo because of it&amp;rsquo;s ability to hot-reload the website while I was working. Nanoc forced me to rebuild the site which took roughly 10-20 seconds, which quickly became a deal breaker.
-Principles I have always believed in using as little computing resources as possible.</description>
+      <title>Post title</title>
+      <link>your-site-address/post/post_sample/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/post/post_sample/</guid>
+      <description>Write your post.</description>
+    </item>
+    
+    <item>
+      <title>Project Name</title>
+      <link>your-site-address/project/project_sample/</link>
+      <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/project/project_sample/</guid>
+      <description>Write your content.</description>
     </item>
     
   </channel>

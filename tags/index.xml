@@ -1,108 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Theme - Prav</title>
-    <link>https://seungyongshim.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo Theme - Prav</description>
+    <title>Tags on your-site-name</title>
+    <link>your-site-address/tags/</link>
+    <description>Recent content in Tags on your-site-name</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://seungyongshim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language>
+    <managingEditor>your-email (your-name)</managingEditor>
+    <webMaster>your-email (your-name)</webMaster>
+    <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate><atom:link href="your-site-address/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>시작</title>
-      <link>https://seungyongshim.github.io/tags/%EC%8B%9C%EC%9E%91/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/%EC%8B%9C%EC%9E%91/</guid>
+      <title>hugo</title>
+      <link>your-site-address/tags/hugo/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>prav</title>
-      <link>https://seungyongshim.github.io/tags/prav/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/prav/</guid>
+      <title>lubang</title>
+      <link>your-site-address/tags/lubang/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/tags/lubang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>your-site-address/tags/project/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>your-site-address/tags/tag/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/tags/tag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://seungyongshim.github.io/tags/theme/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://seungyongshim.github.io/tags/css/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://seungyongshim.github.io/tags/html/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://seungyongshim.github.io/tags/markdown/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://seungyongshim.github.io/tags/themes/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://seungyongshim.github.io/tags/privacy/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://seungyongshim.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://seungyongshim.github.io/tags/emoji/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://seungyongshim.github.io/tags/text/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://seungyongshim.github.io/tags/text/</guid>
+      <link>your-site-address/tags/theme/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>your-email (your-name)</author>
+      <guid>your-site-address/tags/theme/</guid>
       <description></description>
     </item>
     

@@ -3,118 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seungyongshim.github.io/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>your-site-address/categories/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/posts/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/hugo/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/lubang/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/%EC%8B%9C%EC%9E%91/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>your-site-address/post/post_sample/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/posts/%EC%8B%9C%EC%9E%91/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>your-site-address/post/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/about/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+    <loc>your-site-address/categories/programming/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/prav/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/project/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/theme/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/tag/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/categories/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/css/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>your-site-address/tags/theme/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/html/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>your-site-address/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/tags/markdown/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>your-site-address/project/project_sample/</loc>
+    <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>your-site-address/project/</loc>
+    <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seungyongshim.github.io/categories/syntax/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/tags/themes/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/categories/themes/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/tags/privacy/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/posts/rich-content/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/tags/shortcodes/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/tags/emoji/</loc>
-    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/posts/emoji-support/</loc>
-    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/posts/placeholder-text/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seungyongshim.github.io/tags/text/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+    <loc>your-site-address/categories/projects/</loc>
+    <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
 </urlset>
