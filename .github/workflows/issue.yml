@@ -1,1 +1,15 @@
 
+name: Hugo
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Query Issues Output
+      uses: christothes/IssueOutputAction@v1.1
+       
