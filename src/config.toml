@@ -142,7 +142,7 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         GitHub = "seungyongshim"
-        Linkedin = "seungyongshim"
+        Linkedin = "승용-심-6112a674"
         Twitter = ""
         Instagram = ""
         Facebook = ""
@@ -204,9 +204,6 @@ enableEmoji = true
         Bilibili = ""
         Email = ""
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
   [languages.zh-cn]
     weight = 2
     # 网站语言, 仅在这里 CN 大写
