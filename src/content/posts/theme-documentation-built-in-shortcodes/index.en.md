@@ -118,7 +118,6 @@ Example `instagram` input:
 
 The rendered output looks like this:
 
-{{< instagram BWNjjyYFxVx hidecaption >}}
 
 ## 5 param
 

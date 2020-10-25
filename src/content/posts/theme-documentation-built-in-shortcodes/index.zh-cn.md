@@ -119,7 +119,6 @@ Hugo 附带了一组预定义的 shortcodes, 它们实现了一些非常常见�
 
 呈现的输出效果如下:
 
-{{< instagram BWNjjyYFxVx hidecaption >}}
 
 ## 5 param
 
