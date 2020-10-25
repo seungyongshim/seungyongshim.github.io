@@ -119,7 +119,6 @@ The rendered output looks like this:
 Example `instagram` input:
 
 ```markdown
-{{</* instagram BWNjjyYFxVx hidecaption */>}}
 ```
 
 The rendered output looks like this:
