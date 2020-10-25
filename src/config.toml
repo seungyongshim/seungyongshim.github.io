@@ -3,7 +3,6 @@ title = "your-site-name"
 languageCode = "ko-KR"
 
 theme = "hugo-hello-programmer-theme"
-themesdir = "../.."
 
 paginate = 2
 
