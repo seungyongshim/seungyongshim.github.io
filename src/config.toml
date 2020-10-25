@@ -1,41 +1,23 @@
 baseURL = "https://seungyongshim.github.io"
-# [en, zh-cn, fr, pl, ...] determines default content language
-# [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
-# theme
-# 主题
 theme = "LoveIt"
-# themes directory
-
-# website title
-# 网站标题
-title = "LoveIt"
-
-# whether to use robots.txt
-# 是否使用 robots.txt
+title = "SeungYongShim"
 enableRobotsTXT = true
-# whether to use git commit log
-# 是否使用 git 信息
 enableGitInfo = true
-# whether to use emoji code
-# 是否使用 emoji 代码
 enableEmoji = true
 
 [languages]
   [languages.en]
     weight = 1
-    # language code
     languageCode = "en"
-    # language name
     languageName = "English"
-    # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
     googleAnalytics = ""
     # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    copyright = "This work is licensed under a GNU-GPL v3 License."
     # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -86,7 +68,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/seungyongshim"
         title = "GitHub"
         weight = 6
     [languages.en.params]
