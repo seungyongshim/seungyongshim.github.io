@@ -1,6 +1,6 @@
 [submodule "src/themes/hugo-theme-prav"]
 	path = src/themes/hugo-theme-prav
 	url = https://github.com/pravin/hugo-theme-prav
-[submodule "./src/themes/hello-programmer"]
-	path = ./src/themes/hello-programmer
+[submodule "src/themes/hello-programmer"]
+	path = src/themes/hello-programmer
 	url = https://github.com/lubang/hugo-hello-programmer-theme
