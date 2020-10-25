@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Category - LoveIt</title>
+        <title>Markdown - Category - SeungYongShim</title>
         <link>https://seungyongshim.github.io/categories/markdown/</link>
-        <description>Markdown - Category - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://seungyongshim.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+        <description>Markdown - Category - SeungYongShim</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a GNU-GPL v3 License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://seungyongshim.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
     <link>https://seungyongshim.github.io/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
