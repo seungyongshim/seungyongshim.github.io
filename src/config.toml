@@ -125,7 +125,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "안녕하세요. 반갑습니다."
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
