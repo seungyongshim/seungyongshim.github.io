@@ -9,7 +9,9 @@
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://seungyongshim.github.io/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+    <description><![CDATA[<h2 id="테스트">테스트</h2>
+<p>테스트</p>
+<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item><item>
     <title>Emoji Support</title>
     <link>https://seungyongshim.github.io/emoji-support/</link>
