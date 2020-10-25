@@ -4,3 +4,9 @@
 [submodule "src/themes/hugo-hello-programmer-theme"]
 	path = src/themes/hugo-hello-programmer-theme
 	url = https://github.com/lubang/hugo-hello-programmer-theme
+[submodule "src/theme/LoveIt"]
+	path = src/theme/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "src/themes/LoveIt"]
+	path = src/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
