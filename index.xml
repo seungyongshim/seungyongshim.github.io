@@ -3,9 +3,17 @@
         <title>SeungYongShim</title>
         <link>https://seungyongshim.github.io/</link>
         <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a GNU-GPL v3 License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a GNU-GPL v3 License.</copyright><lastBuildDate>Wed, 11 Nov 2020 21:29:01 &#43;0800</lastBuildDate>
             <atom:link href="https://seungyongshim.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>클린 소프트웨어 - 로버트 C 마틴</title>
+    <link>https://seungyongshim.github.io/cleansoftware/</link>
+    <pubDate>Wed, 11 Nov 2020 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://seungyongshim.github.io/cleansoftware/</guid>
+    <description><![CDATA[<p>클린 소프트웨어를 읽고
+<a href="http://www.yes24.com/Product/Goods/39497990">http://www.yes24.com/Product/Goods/39497990</a></p>]]></description>
+</item><item>
     <title>Theme Documentation - Basics</title>
     <link>https://seungyongshim.github.io/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
