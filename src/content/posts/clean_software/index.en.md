@@ -6,7 +6,6 @@ lastmod: 2019-01-11T21:29:01+08:00
 draft: false
 author: "SeungyongShim"
 authorLink: "https://seungyongshim.github.io"
-description: "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

@@ -6,7 +6,6 @@ lastmod: 2019-11-12T21:29:01+08:00
 draft: false
 author: "SeungyongShim"
 authorLink: "https://seungyongshim.github.io"
-description: "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
@@ -21,7 +20,7 @@ toc:
 ---
 
 클린 아키텍처를 읽고   
-http://www.yes24.com/Product/Goods/39497990
+http://www.yes24.com/Product/Goods/77283734
 
 <!--more-->
 
