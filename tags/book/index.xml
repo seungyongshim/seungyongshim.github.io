@@ -5,18 +5,26 @@
         <description>book - Tag - SeungYongShim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a GNU-GPL v3 License.</copyright><lastBuildDate>Tue, 12 Nov 2019 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://seungyongshim.github.io/tags/book/" rel="self" type="application/rss+xml" /><item>
     <title>클린 아키텍처 - 로버트 C 마틴</title>
-    <link>https://seungyongshim.github.io/cleanarchtecture/</link>
+    <link>https://seungyongshim.github.io/clean_archtecture/</link>
     <pubDate>Tue, 12 Nov 2019 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://seungyongshim.github.io/cleanarchtecture/</guid>
+    <guid>https://seungyongshim.github.io/clean_archtecture/</guid>
     <description><![CDATA[<p>클린 아키텍처를 읽고<br>
-<a href="http://www.yes24.com/Product/Goods/39497990">http://www.yes24.com/Product/Goods/39497990</a></p>]]></description>
+<a href="http://www.yes24.com/Product/Goods/77283734">http://www.yes24.com/Product/Goods/77283734</a></p>]]></description>
+</item><item>
+    <title>클린 코드 - 로버트 C 마틴</title>
+    <link>https://seungyongshim.github.io/clean_code/</link>
+    <pubDate>Mon, 11 Mar 2019 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://seungyongshim.github.io/clean_code/</guid>
+    <description><![CDATA[<p>클린 코드를 읽고<br>
+<a href="http://www.yes24.com/Product/Goods/91737015">http://www.yes24.com/Product/Goods/91737015</a></p>]]></description>
 </item><item>
     <title>클린 소프트웨어 - 로버트 C 마틴</title>
-    <link>https://seungyongshim.github.io/cleansoftware/</link>
+    <link>https://seungyongshim.github.io/clean_software/</link>
     <pubDate>Fri, 11 Jan 2019 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://seungyongshim.github.io/cleansoftware/</guid>
+    <guid>https://seungyongshim.github.io/clean_software/</guid>
     <description><![CDATA[<p>클린 소프트웨어를 읽고<br>
 <a href="http://www.yes24.com/Product/Goods/39497990">http://www.yes24.com/Product/Goods/39497990</a></p>]]></description>
 </item></channel>

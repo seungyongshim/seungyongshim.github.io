@@ -2,7 +2,7 @@
 
 
 클린 아키텍처를 읽고   
-http://www.yes24.com/Product/Goods/39497990
+http://www.yes24.com/Product/Goods/77283734
 
 <!--more-->
 
