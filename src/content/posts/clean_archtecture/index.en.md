@@ -8,7 +8,7 @@ author: "SeungyongShim"
 authorLink: "https://seungyongshim.github.io"
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["book", "clean"]
 categories: ["book"]
