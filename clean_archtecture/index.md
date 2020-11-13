@@ -12,4 +12,3 @@ http://www.yes24.com/Product/Goods/77283734
 - 클린 아키텍처는 도메인 주도 설계와 어울린다.
 - 의존성은 설계이며 아키텍처는 의존성을 다룰 줄 알아야 한다.
 
-![](./the-clean-architecture.png)
