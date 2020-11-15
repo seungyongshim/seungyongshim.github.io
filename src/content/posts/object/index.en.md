@@ -7,7 +7,7 @@ draft: false
 author: "SeungyongShim"
 authorLink: "https://seungyongshim.github.io"
 resources:
-- name: "book"
+- name: "featured-image"
   src: "book.png"
 
 tags: ["book", "clean"]
