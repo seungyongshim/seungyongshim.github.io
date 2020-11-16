@@ -17,7 +17,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = "G-99CEMG0MFH"
+    googleAnalytics = "G-9JMZEL2XM6"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a GNU-GPL v3 License."
     # Menu config
